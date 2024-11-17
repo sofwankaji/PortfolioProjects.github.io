@@ -5,15 +5,10 @@ As a detail-oriented and analytical professional with a strong background in dat
 I am passionate about solving problems using data and enjoy collaborating with cross-functional teams to deliver actionable insights. My ability to translate data into clear, understandable reports and dashboards has helped organizations optimize performance and achieve their goals. I am eager to apply my skills to contribute to your team’s success.
 
 ## 🛠️ Core Skills
-- **Data Cleaning & Transformation**
-- **Data Visualization** (Tableau, Power BI)
-- **Statistical Analysis** (R, Python)
-- **SQL and Database Management**
-- **Machine Learning Techniques**
-- **Predictive Modeling**
-- **Business Intelligence (BI) Tools**
-- **Report Generation & Presentation**
-
+- **EXCEL**
+- **Tableau, Power BI**
+- **Python**
+- **SQL**
 ## 📜 Certifications
 - Data Science Professional Certificate (Coursera)
 - SQL for Data Analysis (Udemy)
