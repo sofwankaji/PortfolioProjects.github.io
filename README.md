@@ -85,5 +85,5 @@ Feel free to reach out if you have any questions or want to discuss data analysi
 
 **Contact Information:**
 - **GitHub:** [YourGitHubProfile](https://github.com/YourGitHubProfile)
-- **LinkedIn:** [YourLinkedInProfile](https://www.linkedin.com/in/YourLinkedInProfile/)
-- **Email:** your.email@example.com
+- **LinkedIn:** [YourLinkedInProfile](https://www.linkedin.com/in/sofwan-kaji-85a317253/)
+- **Email:** sofwan.kj@gmail.com
