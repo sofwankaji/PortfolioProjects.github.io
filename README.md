@@ -1,79 +1,57 @@
-# 📊 Data Analyst Professional Profile
+<h1>Hi, I'm Josh! <br/><a href="https://github.com/joshmadakor1">Programmer</a>, <a href="https://www.linkedin.com/in/joshmadakor/">Cybersecurity Professional</a>, <a href="https://www.youtube.com/c/joshmadakor">YouTuber</a></h1>
 
-As a detail-oriented and analytical professional with a strong background in data analysis, I bring hands-on experience in extracting, processing, and interpreting complex datasets to help businesses make data-driven decisions. My expertise includes utilizing tools like **SQL**, **Python**, **Excel**, and data visualization platforms such as **Tableau** and **Power BI**. I have developed a solid understanding of statistical methods, data modeling, and machine learning techniques, enabling me to uncover insights that drive business growth and operational efficiency.
+<h2>👨‍💻 Software Development Projects:</h2>
 
-I am passionate about solving problems using data and enjoy collaborating with cross-functional teams to deliver actionable insights. My ability to translate data into clear, understandable reports and dashboards has helped organizations optimize performance and achieve their goals. I am eager to apply my skills to contribute to your team’s success.
+- <b>Data Structures and Algorithms Practice (AlgoExpert)</b>
+  - [Praciting DS & Algos in Python](https://github.com/joshmadakor1/Algorithms-Practice)
+- <b>Full Stack Web App (React, NodeJS, Azure, and Machine Learning Components)</b>
+  - [Image Analysis Middleware](https://github.com/joshmadakor1/4chan-Image-Analysis-Middleware-C964) <b><i>(Potentially NSFW)</b></i>
+- <b>PowerShell</b>
+  - [Windows EventLog: Failed RDP Logins Source IP to full GeoData Conversion](https://github.com/joshmadakor1/Sentinel-Lab)
+  - [JWipe (Disk Wiping Utility)](https://github.com/joshmadakor1/Jwipe.PowerShell)
+  - [Active Directory Bulk User Creation](https://github.com/joshmadakor1/AD_PS)
+  - [FIM (File Integrity Monitor)](https://github.com/joshmadakor1/PowerShell-Integrity-FIM)
+- <b>C# (.NET Desktop Applications)</b>
+  - [Ransomware Proof of Concept (Encrypter)](https://github.com/joshmadakor1/EncrypterPOC)
+  - [Ransomware Proof of Concept (Decrypter)](https://github.com/joshmadakor1/DecrypterPOC)
+  - [Keylogger with Email Capability](https://github.com/joshmadakor1/Key-Logger-With-Email)
+- <b>Python</b>
+  - [Package Delivery Application (Datastructures and Algorithms Demo)](https://github.com/joshmadakor1/Package-Delivery-Pathfinding-Algorithm)
 
-## 🛠️ Core Skills
-- **EXCEL**
-- **Tableau, Power BI**
-- **Python**
-- **SQL**
-## 📜 Certifications
-- Data Science Professional Certificate (Coursera)
-- SQL for Data Analysis (Udemy)
-- Tableau Desktop Specialist
+<h2>📺 Popular YouTube Videos</h2>
 
-## 🏢 Work Experience
+- [How to get into Cybersecurity Starting From Zero](https://www.youtube.com/watch?v=a83ASGn_V_s)
+- [A Day in the Life of a Cybersecurity Anayst](https://www.youtube.com/watch?v=uHy3oM7NnoU)
+- [How to Create a KeyLogger (C#)](https://www.youtube.com/watch?v=N-L9hklSlNk)
+- [Ransomware Demonstration (C#)](https://www.youtube.com/watch?v=OfvdQeh79s0)
+- [Is WGU Legit?](https://www.youtube.com/watch?v=E2MwRWxDBkA)
 
-### Data Analyst  
-**XYZ Corporation, Bangkok, Thailand**  
-*June 2022 – Present*
+<h2> 🤳 Connect with me:</h2>
 
-- Lead data analysis initiatives for multiple departments, including sales, marketing, and operations, to provide actionable insights that drive business strategies.
-- Developed interactive dashboards in Tableau to monitor key performance indicators (KPIs) for management and executive teams.
-- Conducted statistical analysis to support product pricing and customer retention strategies, resulting in a 10% increase in customer retention within a year.
-- Utilized SQL and Python for data extraction, cleaning, and transformation, improving data quality and analysis turnaround time by 30%.
-- Collaborated with cross-functional teams to implement predictive models and machine learning techniques that optimized supply chain processes and reduced costs by 15%.
+[<img align="left" alt="JoshMadakor | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="JoshMadakor | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="JoshMadakor | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="JoshMadakor | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
-### Junior Data Analyst  
-**ABC Analytics, Bangkok, Thailand**  
-*May 2020 – May 2022*
+[twitter]: https://twitter.com/joshmadakor
+[youtube]: https://www.youtube.com/c/joshmadakor
+[instagram]: https://www.instagram.com/joshmadakor/
+[linkedin]: https://linkedin.com/in/joshmadakor
 
-- Assisted senior analysts in collecting and preparing data for client reports, focusing on marketing performance and customer behavior analytics.
-- Built and maintained Excel-based reports and dashboards to visualize data trends and insights.
-- Worked with SQL to query large datasets and perform data analysis to identify key metrics that informed business decisions.
-- Supported the team in conducting A/B testing and analyzing the results to recommend optimizations to clients' marketing campaigns.
+<!--
+**joshmadakor1/joshmadakor1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-## 🎓 Education
+Here are some ideas to get you started:
 
-**Bachelor of Science in Data Science**  
-*Chulalongkorn University, Bangkok, Thailand*  
-*Graduated: May 2020*
-
-- **Relevant coursework:** Data Analysis, Machine Learning, Statistics, Database Management, Business Intelligence, Data Visualization
-- **Final Year Project:** "Predictive Modeling for Sales Forecasting in E-Commerce using Machine Learning Algorithms"  
-   - Used Python and Scikit-Learn to build a predictive model that achieved an accuracy rate of 85% in forecasting sales based on historical data.
-
-## 📈 Project Example: Customer Segmentation Analysis
-
-**Objective:**  
-Develop a customer segmentation model for a retail company to improve marketing strategies and increase customer retention.
-
-### Project Overview
-I was tasked with analyzing customer data to identify distinct segments based on purchasing behavior and demographics. The goal was to help the marketing team target specific customer groups with tailored promotions and content.
-
-### Approach & Tools Used
-1. **Data Collection & Cleaning:**  
-   - Extracted customer data from SQL databases.
-   - Cleaned and transformed the data using Python (Pandas) to handle missing values, outliers, and normalization.
-
-2. **Exploratory Data Analysis (EDA):**  
-   - Performed EDA using Python libraries like Matplotlib and Seaborn to identify patterns, distributions, and correlations within the dataset.
-
-3. **Segmentation Using K-Means Clustering:**  
-   - Applied K-Means clustering algorithm to segment customers into groups based on purchasing frequency, spending habits, and demographic characteristics.
-   - Determined the optimal number of clusters using the Elbow Method.
-
-4. **Data Visualization & Reporting:**  
-   - Created an interactive dashboard using Tableau to visualize customer segments, key metrics, and trends.
-   - Delivered a comprehensive report with recommendations on marketing strategies tailored to each customer segment.
-
-### Results
-- Identified 4 distinct customer segments, each with unique behavior patterns.
-- Marketing campaigns targeting these segments led to a 15% increase in customer retention within 6 months.
-- The dashboard allowed the marketing team to quickly access real-time data on customer behavior, improving decision-making efficiency.
-
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 ---
 
 Feel free to reach out if you have any questions or want to discuss data analysis projects!
